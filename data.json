@@ -4398,6 +4398,13 @@
 				"description": "Россия, Москва, бульвар Маршала Рокоссовского, 36/1",
 				"iconCaption": "\"Магазин \"\"Продукты\"\" ООО \"\"Эверест\"\" \"",
 				"marker-color": "#ed4543"
+				"balloonContent": "ДИТ",
+				"clusterCaption": "ДИТ",
+				"hintContent": "ДИТ",
+				"iconCaption": "ДИТ"
+			},
+			"options": {
+				"preset": "islands#violetCircleDotIconWithCaption"
 			}
 		},
 		{
