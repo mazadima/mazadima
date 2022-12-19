@@ -1,9 +1,5 @@
 {
 	"type": "FeatureCollection",
-	"metadata": {
-		"name": "Импорт из «yandexmapCRM.xlsx»",
-		"creator": "Yandex Map Constructor"
-	},
 	"features": [
 		{
 			"type": "Feature",
