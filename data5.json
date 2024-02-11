@@ -28,9 +28,9 @@
 			},
 			"properties": {
 				"balloonContent": "Магазин1",
-				"clusterCaption": "Магазин",
+				"clusterCaption": "Магазин3",
 				"hintContent": "Магазин2",
-				"iconCaption": "Магазин"
+				"iconCaption": "Магазин4"
 			},
 			"options": {
 				"preset": "islands#yellowCircleDotIconWithCaption"
