@@ -18,6 +18,26 @@
 		},
 		{
 			"type": "Feature",
+			"id": 2251,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					55.673873,
+					37.658425
+				]
+			},
+			"properties": {
+				"balloonContent": "Магазин",
+				"clusterCaption": "Магазин",
+				"hintContent": "Магазин",
+				"iconCaption": "Магазин"
+			},
+			"options": {
+				"preset": "islands#yellowCircleDotIconWithCaption"
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 1,
 			"geometry": {
 				"type": "Point",
